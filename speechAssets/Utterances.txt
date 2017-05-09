@@ -1,0 +1,14 @@
+GetNewFactIntent ein Faktum
+GetNewFactIntent ein Faktum über Tiefenbach
+GetNewFactIntent sage mir ein Faktum
+GetNewFactIntent sage mir ein Faktum über Tiefenbach
+GetNewFactIntent gib mir einen Fakt
+GetNewFactIntent gib mir einen Fakt über Tiefenbach
+GetNewFactIntent erzähle mir Wissenswertes
+GetNewFactIntent erzähle mir Wissenswertes über Tiefenbach
+GetNewFactIntent sage mir etwas Wissenswertes
+GetNewFactIntent sage mir etwas wissenswertes über Tiefenbach
+GetNewFactIntent gib mir Informationen
+GetNewFactIntent gib mir Informationen Tiefenbach
+GetNewFactIntent sage mir etwas
+GetNewFactIntent erzähle mir etwas
